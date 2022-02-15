@@ -4,7 +4,7 @@ Meu nome é Márcio Guimarães. Tenho 37 anos, sou formado em Engenharia Mecâni
 
 Atualmente, estou participando do processo DESENVOLVE 2022 organizado pelo Grupo Boticário.
 
-Este processo é um projeto de aprendizado intensivo de formação Full-Stack de duração de 9 meses.
+Este processo é um projeto de aprendizado intensivo de formação Full-Stack com duração de 9 meses.
 
 Tenho certeza que irei aprender bastante e estou pronto para evoluir no meu conhecimento.
 
