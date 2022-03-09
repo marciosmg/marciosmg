@@ -1,6 +1,6 @@
 Olá.
 
-Meu nome é Márcio Guimarães. Tenho 37 anos, sou formado em Engenharia Mecânica mas estou fazendo a transição para a àrea de Tecnologia da Informação (T.I.).
+Meu nome é Márcio Guimarães. Tenho 38 anos, sou formado em Engenharia Mecânica mas estou fazendo a transição para a àrea de Tecnologia da Informação (T.I.).
 
 Atualmente, estou participando do processo DESENVOLVE 2022 organizado pelo Grupo Boticário.
 
